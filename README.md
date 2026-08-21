@@ -9,5 +9,5 @@ Java 8
 java25 
 also a option to add custom java
 # DISCLAMER
-make sure to select java in Options (3) before setting up your server
+make sure to select java in Options (3) before starting up your server
 
